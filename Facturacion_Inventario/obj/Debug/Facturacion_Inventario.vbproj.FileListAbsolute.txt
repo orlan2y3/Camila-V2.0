@@ -1,0 +1,271 @@
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.Buscar_Cotizacion_facturacion.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmDatosEmpresa.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantCotizacion.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantFacturas.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.Reportes.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.Form1.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteCotizacion.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteFacturas.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.Seguridad_Usuarios.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.Seguridad_Anular_Factura.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.Nosotros.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.Buscar_Cotizacion.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.Cotizacion.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.Parametros.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.Usuarios.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.Entrada.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.Buscar_Factura.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMenu.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.Resources.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\Facturacion_Inventario.vbproj.GenerateResource.Cache
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\CrystalDecisions.Shared.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\FlashControlV71.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\ShockwaveFlashObjects.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\stdole.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmEntradaProductos.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantInventario.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmBuscarProducto.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteEntradasInventario.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteVentas.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMaestraClientes.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmBuscarCliente.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteVentasBeneficios.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteInvMenorQue.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.Seguridad.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmRecibida.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmImprimir.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmCondicionesProductos.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmNCF.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmRegistrarPagadas.resources
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\C A M I L A Facturacion Inventario.exe.config
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\C A M I L A Facturacion Inventario.exe
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\C A M I L A Facturacion Inventario.pdb
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\bin\Debug\C A M I L A Facturacion Inventario.xml
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\C A M I L A Facturacion Inventario.exe
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\C A M I L A Facturacion Inventario.xml
+D:\Arcadio Solano\Proyectos VS.Net\Facturacion_Inventario\Facturacion_Inventario\obj\Debug\C A M I L A Facturacion Inventario.pdb
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\C A M I L A Facturacion Inventario.exe.config
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\C A M I L A Facturacion Inventario.exe
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\C A M I L A Facturacion Inventario.xml
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\C A M I L A Facturacion Inventario.pdb
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\C A M I L A Facturacion Inventario.exe.config
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\C A M I L A Facturacion Inventario.exe
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\C A M I L A Facturacion Inventario.xml
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\C A M I L A Facturacion Inventario.pdb
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\C A M I L A Facturacion Inventario.exe
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\C A M I L A Facturacion Inventario.pdb
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\C A M I L A Facturacion Inventario.xml
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\ShockwaveFlashObjects.dll
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\stdole.dll
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Buscar_Cotizacion_facturacion.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmBuscarCliente.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmBuscarProducto.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmCondicionesProductos.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteCuadreCaja.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmDatosEmpresa.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmEntradaProductos.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmImprimir.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMaestraClientes.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantCotizacion.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantFacturas.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmNCF.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmRecibida.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmRegistrarPagadas.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteInvMenorQue.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteVentasBeneficios.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteEntradasInventario.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Reportes.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantInventario.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteVentas.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Seguridad.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Form1.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteCotizacion.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteFacturas.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Seguridad_Usuarios.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Seguridad_Anular_Factura.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Nosotros.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Buscar_Cotizacion.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Cotizacion.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Parametros.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Usuarios.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Entrada.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Buscar_Factura.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMenu.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Resources.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\Facturacion_Inventario.vbproj.GenerateResource.Cache
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmBuscarFacturasCredito.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReciboIngresos.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantReciboIngresos.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmRecibo.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantRecibo.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteRecibos.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteEstadoCuentas.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteFacturasPorCliente.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\Facturacion_Inventario.vbproj.CoreCompileInputs.cache
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\Facturacion_Inventario.vbproj.CopyComplete
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\CrystalDecisions.Shared.dll
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\FlashControlV71.dll
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmConsultarCP.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantEntradasProductos.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteVentas2.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmEnviarCorreos.resources
+D:\Arcadio Solano\Proyectos VS.Net\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\Facturacion_Inventario.vbprojAssemblyReference.cache
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\C A M I L A Facturacion Inventario.exe.config
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\C A M I L A Facturacion Inventario.exe
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\C A M I L A Facturacion Inventario.pdb
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\C A M I L A Facturacion Inventario.xml
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\bin\Debug\stdole.dll
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\Facturacion_Inventario.vbprojAssemblyReference.cache
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Buscar_Cotizacion_facturacion.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmBuscarCliente.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmBuscarFacturasCredito.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmBuscarProducto.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmCondicionesProductos.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmEnviarCorreos.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantEntradasProductos.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantRecibo.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantReciboIngresos.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmRecibo.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReciboIngresos.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteFacturasPorCliente.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteRecibos.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteVentas2.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteCuadreCaja.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmDatosEmpresa.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmEntradaProductos.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmImprimir.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMaestraClientes.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantCotizacion.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantFacturas.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmNCF.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmRecibida.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmRegistrarPagadas.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteInvMenorQue.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteVentasBeneficios.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteEntradasInventario.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Reportes.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantInventario.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteVentas.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Seguridad.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteEstadoCuentas.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmConsultarCP.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Form1.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteCotizacion.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteFacturas.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Seguridad_Usuarios.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Seguridad_Anular_Factura.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Nosotros.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Buscar_Cotizacion.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Cotizacion.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Parametros.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Usuarios.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Entrada.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Buscar_Factura.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMenu.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\FacturacionServicios.Resources.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\Facturacion_Inventario.vbproj.GenerateResource.cache
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\Facturacion_Inventario.vbproj.CoreCompileInputs.cache
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\Facturacion_Inventario.vbproj.CopyComplete
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\C A M I L A Facturacion Inventario.exe
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\C A M I L A Facturacion Inventario.xml
+C:\Users\o.reynoso\OneDrive\VB.NET\GitHub\CAMILA V.2.0 - Facturacion_Inventario - Access\Facturacion_Inventario\obj\Debug\C A M I L A Facturacion Inventario.pdb
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\bin\Debug\C A M I L A Facturacion Inventario.exe.config
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\bin\Debug\C A M I L A Facturacion Inventario.exe
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\bin\Debug\C A M I L A Facturacion Inventario.pdb
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\bin\Debug\C A M I L A Facturacion Inventario.xml
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\bin\Debug\stdole.dll
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\Facturacion_Inventario.vbprojAssemblyReference.cache
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Buscar_Cotizacion_facturacion.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmBuscarCliente.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmBuscarFacturasCredito.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmBuscarProducto.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmCondicionesProductos.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmEnviarCorreos.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantEntradasProductos.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantRecibo.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantReciboIngresos.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmRecibo.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReciboIngresos.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteFacturasPorCliente.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteRecibos.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteVentas2.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteCuadreCaja.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmDatosEmpresa.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmEntradaProductos.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmImprimir.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMaestraClientes.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantCotizacion.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantFacturas.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmNCF.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmRecibida.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmRegistrarPagadas.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteInvMenorQue.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteVentasBeneficios.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteEntradasInventario.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Reportes.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantInventario.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteVentas.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Seguridad.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteEstadoCuentas.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmConsultarCP.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Form1.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteCotizacion.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteFacturas.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Seguridad_Usuarios.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Seguridad_Anular_Factura.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Nosotros.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Buscar_Cotizacion.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Cotizacion.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Parametros.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Usuarios.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Entrada.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Buscar_Factura.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMenu.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Resources.resources
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\Facturacion_Inventario.vbproj.GenerateResource.cache
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\Facturacion_Inventario.vbproj.CoreCompileInputs.cache
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\Facturacion_Inventario.vbproj.CopyComplete
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\C A M I L A Facturacion Inventario.exe
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\C A M I L A Facturacion Inventario.xml
+C:\Users\o.reynoso\OneDrive\GitHub\CAMILA V2.0\Facturacion_Inventario\obj\Debug\C A M I L A Facturacion Inventario.pdb

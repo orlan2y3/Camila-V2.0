@@ -1,0 +1,25 @@
+Private Sub Exportar(ByVal adjunto As String)
+Dim rptDocument As New CrystalDecisions.CrystalReports.Engine.ReportDocument
+
+_sPathReporte = CType(configurationAppSettings.GetValue("PathReportes", GetType(System.String)), String)
+rptDocument.Load(_sPathReporte & _Reporte & ".rpt")
+rptDocument.SetDataSource(_dtTabla)
+ReportViewer.ReportSource = rptDocument
+
+Dim filedest As New CrystalDecisions.Shared.DiskFileDestinationOptions
+Dim o As CrystalDecisions.Shared.ExportOptions
+o = New CrystalDecisions.Shared.ExportOptions
+o.ExportFormatType = CrystalDecisions.Shared.ExportFormatType.PortableDocFormat
+o.ExportDestinationType = CrystalDecisions.Shared.ExportDestinationType.DiskFile
+filedest.DiskFileName = System.IO.Directory.GetCurrentDirectory() & "\" & adjunto & ".pdf"
+
+o.ExportDestinationOptions = filedest.Clone
+rptDocument.Export(o)
+
+filedest = Nothing
+o = Nothing
+End Sub
+
+
+
+objReport.ExportToDisk(ExportFormatType.PortableDocFormat, "c:\\nombre.pdf");
