@@ -14,6 +14,7 @@ Public Class Form1
     Dim NCF_Fijo As String
     Dim grabando As Boolean
     Dim posicion As Integer
+    Dim hora As String
 
     Public Sub FormatGrid()
         dgvfactura.Rows.Clear()
@@ -131,7 +132,7 @@ Public Class Form1
 
         Try
 
-            StrSql = "SELECT C.NOMBRE, C.DIRECCION, F.CONDICION, F.FECHA, F.SUB_TOTAL, F.TOTAL, F.ESTADO," _
+            StrSql = "SELECT C.NOMBRE, C.DIRECCION, F.CONDICION, F.FECHA, F.HORA, F.SUB_TOTAL, F.TOTAL, F.ESTADO," _
             & " CANTIDAD_DESCUENTO, F.COMPROBANTE, F.EFECTIVO, F.DEVUELTA, F.ID_COMPROBANTE, F.COMENTARIO" _
             & " FROM FACTURA F, CLIENTES C WHERE ID_FACTURA =" & numfacturaanterior & " AND F.ID_CLIENTE = C.ID"
             objCmd = New OleDbCommand(StrSql, Cnn)
@@ -141,6 +142,7 @@ Public Class Form1
                 Dim Dir As String = ""
                 Dim Condicion As String = ""
                 Dim Fecha As String = ""
+                Dim Hora As String = ""
                 Dim SubTotal As Decimal = 0
                 Dim Total As Decimal = 0
                 Dim Estado As String = ""
@@ -158,6 +160,7 @@ Public Class Form1
                 Dir = objReader("direccion").ToString
                 Condicion = objReader("condicion").ToString
                 Fecha = objReader("fecha").ToString
+                Hora = objReader("hora").ToString
                 SubTotal = objReader("sub_total")
                 Total = objReader("total")
                 Estado = objReader("estado").ToString
@@ -232,6 +235,9 @@ Public Class Form1
 
                 yPos = yPos + 18
                 e.Graphics.DrawString("Fecha factura : " & Lfecha(Fecha), prFont, Brushes.Black, xPos, yPos)
+
+                yPos = yPos + 18
+                e.Graphics.DrawString("Hora factura : " & Hora, prFont, Brushes.Black, xPos, yPos)
 
                 yPos = yPos + 18
                 e.Graphics.DrawString("Cliente : " & Nombre, prFont, Brushes.Black, xPos, yPos)
@@ -743,12 +749,15 @@ Public Class Form1
                 Devuelta = CDec(txtDevuelta.Text)
             End If
 
+            hora = Now.ToString("HH:mm:ss")
+
+
             Dim myQuery As String = "INSERT INTO factura (id_factura,id_cliente,condicion,comentario,fecha,sub_total,itbis,total," _
-            & "cantidad_descuento,porciento_itbis,id_usuario,comprobante, id_comprobante, valida_hasta, pagada, efectivo, devuelta)" _
+            & "cantidad_descuento,porciento_itbis,id_usuario,comprobante, id_comprobante, valida_hasta, pagada, efectivo, devuelta, hora)" _
             & " VALUES (" & txtnumfactura.Text & "," & CLng(txtIdCliente.Text) & ",'" & cmbcondicion.Text _
             & "','" & Trim(rtbcomentario.Text) & "','" & Efecha(mtbfecha.Text) & "'," & CDec(txtsubtotal.Text) _
             & "," & CDec(txtitbis.Text) & "," & CDec(txttotal.Text) & "," & CDec(txtdescuento.Text) & "," & PorcientoItbis & "," & IdUsuario _
-            & ",'" & txtnumcomprobante.Text & "'," & IdComprobante & ",'" & ValidaHasta & "','" & Pagada & "'," & Efectivo & "," & Devuelta & ")"
+            & ",'" & txtnumcomprobante.Text & "'," & IdComprobante & ",'" & ValidaHasta & "','" & Pagada & "'," & Efectivo & "," & Devuelta & ",'" & hora & "')"
 
             Dim cmd3 As OleDbCommand = New OleDbCommand(myQuery, Cnn, trans)
             cmd3.Connection = Cnn

@@ -18,6 +18,7 @@ Public Class frmMantFacturas
     Dim Estado As String
     Dim grabando As Boolean
     Dim posicion As Integer
+    Dim hora As String
 
     Private Sub FormatGrid()
         dgvfactura.Rows.Clear()
@@ -160,7 +161,7 @@ Public Class frmMantFacturas
 
         Try
 
-            StrSql = "SELECT C.NOMBRE, C.DIRECCION, F.CONDICION, F.FECHA, F.SUB_TOTAL, F.TOTAL, F.ESTADO," _
+            StrSql = "SELECT C.NOMBRE, C.DIRECCION, F.CONDICION, F.FECHA, F.HORA, F.SUB_TOTAL, F.TOTAL, F.ESTADO," _
             & " CANTIDAD_DESCUENTO, F.COMPROBANTE, F.EFECTIVO, F.DEVUELTA, F.ID_COMPROBANTE, F.COMENTARIO" _
             & " FROM FACTURA F, CLIENTES C WHERE ID_FACTURA =" & txtnumfactura.Text & " And F.ID_CLIENTE = C.ID"
             objCmd = New OleDbCommand(StrSql, Cnn)
@@ -170,6 +171,7 @@ Public Class frmMantFacturas
                 Dim Dir As String = ""
                 Dim Condicion As String = ""
                 Dim Fecha As String = ""
+                Dim hora As String = ""
                 Dim SubTotal As Decimal = 0
                 Dim Total As Decimal = 0
                 Dim Estado As String = ""
@@ -187,6 +189,7 @@ Public Class frmMantFacturas
                 Dir = objReader("direccion").ToString
                 Condicion = objReader("condicion").ToString
                 Fecha = objReader("fecha").ToString
+                hora = objReader("hora").ToString
                 SubTotal = objReader("sub_total")
                 Total = objReader("total")
                 Estado = objReader("estado").ToString
@@ -260,6 +263,9 @@ Public Class frmMantFacturas
 
                 yPos = yPos + 18
                 e.Graphics.DrawString("Fecha factura: " & Lfecha(Fecha), prFont, Brushes.Black, xPos, yPos)
+
+                yPos = yPos + 18
+                e.Graphics.DrawString("Hora factura: " & hora, prFont, Brushes.Black, xPos, yPos)
 
                 yPos = yPos + 18
                 e.Graphics.DrawString("Cliente : " & Nombre, prFont, Brushes.Black, xPos, yPos)
@@ -727,11 +733,13 @@ Public Class frmMantFacturas
                 Pagada = "N"
             End If
 
+            hora = Now.ToString("HH:mm:ss")
+
             trans = Cnn.BeginTransaction
             TA = True
 
             Dim myQuery As String = "UPDATE factura SET id_cliente =" & txtIdCliente.Text _
-                                        & ", condicion = '" & cmbcondicion.Text & "', comentario = '" & Trim(rtbcomentario.Text) & "', fecha = '" & Efecha(mtbfecha.Text) _
+                                        & ", condicion = '" & cmbcondicion.Text & "', comentario = '" & Trim(rtbcomentario.Text) & "', fecha = '" & Efecha(mtbfecha.Text) & "',hora ='" & hora _
                                         & "', sub_total = " & CDec(txtsubtotal.Text) & ", itbis = " & CDec(txtitbis.Text) & ", total = " & CDec(txttotal.Text) _
                                         & ", cantidad_descuento = " & CDec(txtdescuento.Text) _
                                         & ", porciento_itbis = " & PorcientoItbis & ", id_usuario = " & IdUsuario & ", comprobante = '" & txtnumcomprobante.Text _
