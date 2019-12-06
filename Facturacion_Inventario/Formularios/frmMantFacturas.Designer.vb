@@ -85,6 +85,7 @@ Partial Class frmMantFacturas
         Me.Label17 = New System.Windows.Forms.Label()
         Me.Label19 = New System.Windows.Forms.Label()
         Me.btnOtra = New System.Windows.Forms.Button()
+        Me.lblHora = New System.Windows.Forms.Label()
         Me.GroupBox2.SuspendLayout()
         Me.GroupBox1.SuspendLayout()
         CType(Me.dgvfactura, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -733,12 +734,22 @@ Partial Class frmMantFacturas
         Me.btnOtra.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.btnOtra.UseVisualStyleBackColor = False
         '
+        'lblHora
+        '
+        Me.lblHora.AutoSize = True
+        Me.lblHora.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblHora.Location = New System.Drawing.Point(205, 45)
+        Me.lblHora.Name = "lblHora"
+        Me.lblHora.Size = New System.Drawing.Size(0, 16)
+        Me.lblHora.TabIndex = 250
+        '
         'frmMantFacturas
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FloralWhite
         Me.ClientSize = New System.Drawing.Size(940, 548)
+        Me.Controls.Add(Me.lblHora)
         Me.Controls.Add(Me.btnOtra)
         Me.Controls.Add(Me.Label19)
         Me.Controls.Add(Me.Label17)
@@ -872,4 +883,5 @@ Partial Class frmMantFacturas
     Friend WithEvents Label17 As Label
     Friend WithEvents Label19 As Label
     Friend WithEvents btnOtra As Button
+    Friend WithEvents lblHora As Label
 End Class

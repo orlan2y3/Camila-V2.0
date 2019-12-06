@@ -129,6 +129,7 @@ Public Class frmMantFacturas
 
             Dim fecha As String = Date.Today.ToString("dd/MM/yyyy")
             mtbfecha.Text = fecha
+            lblHora.Text = ""
             txtValida.Text = Valida
 
             txtdescuento.Text = 0.0
@@ -1206,7 +1207,7 @@ Public Class frmMantFacturas
 
             Dim dr As OleDbDataReader
             Dim query As String = "SELECT f.id_factura, f.id_cliente, c.nombre, c.rnc, u.nombre_completo, f.usuario_anulo, " &
-                          "f.condicion, f.fecha, f.sub_total, f.itbis, f.comprobante, " &
+                          "f.condicion, f.fecha, f.hora, f.sub_total, f.itbis, f.comprobante, " &
                           "f.cantidad_descuento, f.comentario, f.total, f.estado, f.porciento_itbis, " &
                           "f.id_comprobante, f.valida_hasta, f.id_usuario FROM " &
                           "factura f, clientes c, usuarios u where f.id_cliente = c.id and f.id_usuario = u.id And f.id_factura = " & NF
@@ -1221,6 +1222,7 @@ Public Class frmMantFacturas
             txtnumfactura.Text = dr("id_factura").ToString
             cmbcondicion.Text = dr("condicion").ToString
             mtbfecha.Text = Lfecha(dr("fecha").ToString)
+            lblHora.Text = "Hora Factura: " & dr("hora").ToString
             txtIdCliente.Text = dr("id_cliente")
             txtcliente.Text = dr("nombre").ToString
             txtsubtotal.Text = FormatNumber(dr("sub_total"), 2)
