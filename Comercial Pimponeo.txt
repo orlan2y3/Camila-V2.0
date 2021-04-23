@@ -1,0 +1,11 @@
+
+DSN = Facturacion_Inventario
+
+Password base de datos = cladatos-ao
+
+jose1122$
+pimponeord@gmail.com
+
+Carpeta: Archivos Pdf
+
+josecastillo_73@hotmail.com

@@ -344,3 +344,63 @@ C:\Users\o.reynoso\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\
 C:\Users\o.reynoso\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\C A M I L A Facturacion Inventario.exe
 C:\Users\o.reynoso\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\C A M I L A Facturacion Inventario.xml
 C:\Users\o.reynoso\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\C A M I L A Facturacion Inventario.pdb
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\bin\Debug\C A M I L A Facturacion Inventario.exe.config
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\bin\Debug\C A M I L A Facturacion Inventario.exe
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\bin\Debug\C A M I L A Facturacion Inventario.pdb
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\bin\Debug\C A M I L A Facturacion Inventario.xml
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\bin\Debug\stdole.dll
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\Facturacion_Inventario.vbprojAssemblyReference.cache
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Buscar_Cotizacion_facturacion.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmBuscarCliente.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmBuscarFacturasCredito.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmBuscarProducto.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmCondicionesProductos.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmEnviarCorreos.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantEntradasProductos.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantRecibo.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantReciboIngresos.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmRecibo.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReciboIngresos.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteFacturasPorCliente.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteRecibos.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteVentas2.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteCuadreCaja.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmDatosEmpresa.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmEntradaProductos.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmImprimir.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMaestraClientes.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantCotizacion.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantFacturas.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmNCF.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmRecibida.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmRegistrarPagadas.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteInvMenorQue.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteVentasBeneficios.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteEntradasInventario.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Reportes.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMantInventario.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteVentas.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Seguridad.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmReporteEstadoCuentas.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmConsultarCP.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Form1.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteCotizacion.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.ReporteFacturas.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Seguridad_Usuarios.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Seguridad_Anular_Factura.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Nosotros.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Buscar_Cotizacion.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Cotizacion.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Parametros.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Usuarios.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Entrada.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Buscar_Factura.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.frmMenu.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\FacturacionServicios.Resources.resources
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\Facturacion_Inventario.vbproj.GenerateResource.cache
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\Facturacion_Inventario.vbproj.CoreCompileInputs.cache
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\Facturacion_Inventario.vbproj.CopyComplete
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\C A M I L A Facturacion Inventario.exe
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\C A M I L A Facturacion Inventario.xml
+C:\Users\orlan\OneDrive\VB.NET\Camila V2.0\Facturacion_Inventario\obj\Debug\C A M I L A Facturacion Inventario.pdb

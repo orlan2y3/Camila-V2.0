@@ -1,0 +1,2 @@
+System DNS: Microsoft Access Driver: Facturacion_Inventario
+Instalar: CRRuntime_32bit_13_0_21
